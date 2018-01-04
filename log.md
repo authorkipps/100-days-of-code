@@ -15,3 +15,11 @@
 **Thoughts**: Want to faster my speed but slowly is better. Must be thinking about it. Be fine!
 
 **Link to work:** [CatPhotoApps]
+
+### Day 2: January 04, 2018
+
+**Today's Progress**: Learn conts Bootstrap and Jquery.
+
+**Thoughts**: Feel tired at start, but the time goes on, I feel fine. Little feel to move faster. Be fine!. I think about remake my website JP on codepen by using all of thing I learn. Be fun!
+
+**Link to work:** [FreeCodeCamp]
