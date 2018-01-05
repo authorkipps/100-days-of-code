@@ -23,3 +23,11 @@
 **Thoughts**: Feel tired at start, but the time goes on, I feel fine. Little feel to move faster. Be fine!. I think about remake my website JP on codepen by using all of thing I learn. Be fun!
 
 **Link to work:** [FreeCodeCamp]
+
+### Day 3: January 05, 2018
+
+**Today's Progress**: Remake website country Japan.
+
+**Thoughts**: A pain begin when I first start doing code. It's Ok with ten minutes but at home I can make my effort 100%. It is really hard to do it. I want to eat anything. 
+
+**Link to work:** [codepen.io/author.kipps]
