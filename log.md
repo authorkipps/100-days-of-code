@@ -31,3 +31,11 @@
 **Thoughts**: A pain begin when I first start doing code. It's Ok with ten minutes but at home I can make my effort 100%. It is really hard to do it. I want to eat anything. 
 
 **Link to work:** [codepen.io/author.kipps]
+
+### Day 4: January 06, 2018
+
+**Today's Progress**: Build website country Japan by using Bootstrap.
+
+**Thoughts**: I almost die on my mind. Eating grap food, feel stress, painful, don't want to do this task. But after 30 minutes this task will be ok. Just try to test and trial something I read.
+
+**Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG?editors=1010]
