@@ -39,3 +39,11 @@
 **Thoughts**: I almost die on my mind. Eating grap food, feel stress, painful, don't want to do this task. But after 30 minutes this task will be ok. Just try to test and trial something I read.
 
 **Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG?editors=1010]
+
+### Day 5: January 07, 2018
+
+**Today's Progress**: Conts build website country Japan.
+
+**Thoughts**: Difficulty appears on my side: noise from outside, many distraction, my shit on my mind, procrastinate. I do it just a litle but feel not good about. My space at home so difficult to do my task.
+
+**Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG?editors=1010]
