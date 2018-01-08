@@ -47,3 +47,12 @@
 **Thoughts**: Difficulty appears on my side: noise from outside, many distraction, my shit on my mind, procrastinate. I do it just a litle but feel not good about. My space at home so difficult to do my task.
 
 **Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG?editors=1010]
+
+### Day 6: January 08, 2018
+
+**Today's Progress**: Conts build website country Japan.
+
+**Thoughts**: Many distract and Don't know what can I start from. Just want to quit it and start learning something else. But then seem Ok just start with small things I want to improve my website. Struggle with bootstrap's documentation.
+
+**Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG?editors=1010]
+
