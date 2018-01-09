@@ -56,3 +56,11 @@
 
 **Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG?editors=1010]
 
+### Day 7: January 09, 2018
+
+**Today's Progress**: Build one piece of website Country Japan.
+
+**Thoughts**: Feel so not good beacause don't know what to do with my site. Start repair one part in site, feel little movation when I apply my thought. There will be ok. Just know start from small. Fastinate with color.
+
+**Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG]
+
