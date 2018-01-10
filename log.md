@@ -64,3 +64,10 @@
 
 **Link to work:** [https://codepen.io/authorkipps/pen/WdZLKG]
 
+### Day 8: January 10, 2018
+
+**Today's Progress**: Build Navigation and small content of web.
+
+**Thoughts**: Feel Ok with myself. Decide to shutdown this website. Continual build something small on my porfolio.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/WdZLKG]
