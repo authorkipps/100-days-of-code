@@ -71,3 +71,11 @@
 **Thoughts**: Feel Ok with myself. Decide to shutdown this website. Continual build something small on my porfolio.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/WdZLKG]
+
+### Day 9: January 11, 2018
+
+**Today's Progress**: Build porfolio of Bob Dylan
+
+**Thoughts**: Start with Ok picking up idea, click and show the content but then stuck, don't know what to do which next. So I change it to a codewars challenger, then do some exercise on FCC. Feel myself into the water.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/ZvxBoy]
