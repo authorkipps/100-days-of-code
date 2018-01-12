@@ -79,3 +79,11 @@
 **Thoughts**: Start with Ok picking up idea, click and show the content but then stuck, don't know what to do which next. So I change it to a codewars challenger, then do some exercise on FCC. Feel myself into the water.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/ZvxBoy]
+
+### Day 10: January 12, 2018
+
+**To day's Progress:** Free code and althorithms.
+
+**Thought**: Almost die, stuck at time, I just want to do another things not about coding. Feel exhaust, stress, I just do at 30minutes. It's so hard. I just want to skip this session.
+
+**Link to work**: []
