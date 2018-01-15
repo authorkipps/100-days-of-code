@@ -82,8 +82,30 @@
 
 ### Day 10: January 12, 2018
 
-**To day's Progress:** Free code and althorithms.
+**Today's Progress:** Free code and althorithms.
 
 **Thought**: Almost die, stuck at time, I just want to do another things not about coding. Feel exhaust, stress, I just do at 30minutes. It's so hard. I just want to skip this session.
 
 **Link to work**: []
+
+### Day 11: January 13, 2018
+
+**Today's Progress:** Make a list item film.
+
+**Thought**: So lazy myself. I just want to do a weird things don't want to code.  I watched movies and saw something interesting me, so I do it cover. But feel nothing happen.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/NXzerg]
+
+### Day 12: January 14, 2018
+
+**Today's Progress:** Nothing.
+
+**Thought**: Empty. Not have enough strengh to start code.
+
+## Day 13: January 15, 2018
+
+**Today's Progress:** Movies film project.
+
+**Thought**: So many things to do for make it not ugly. Information to learn so much. I feel head ache and want to quit, but later I feel ok when I do small thing smoothely. But my approach to learning seems so wrong.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/OzwBro]
