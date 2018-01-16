@@ -109,3 +109,11 @@
 **Thought**: So many things to do for make it not ugly. Information to learn so much. I feel head ache and want to quit, but later I feel ok when I do small thing smoothely. But my approach to learning seems so wrong.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/OzwBro]
+
+## Day 14: January 16, 2018
+
+**Today's Progress:** Movies film project(Continual)
+
+**Thought**: Serious, Paint, nothing done, feel itch all my body, want to quit.
+
+**Link to work**:[Same]
