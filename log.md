@@ -117,3 +117,11 @@
 **Thought**: Serious, Paint, nothing done, feel itch all my body, want to quit.
 
 **Link to work**:[Same]
+
+## Day 15: January 17, 2018
+
+**Today's Progress:** Login Codepen page
+
+**Thought**: Use information live make easy when I code, no thinking just doing like a exam, using bootstrap make page more nice. I am not really know about bootstrap. I learn about form-group, input, button.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/MrPXKG]
