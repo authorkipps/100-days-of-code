@@ -125,3 +125,11 @@
 **Thought**: Use information live make easy when I code, no thinking just doing like a exam, using bootstrap make page more nice. I am not really know about bootstrap. I learn about form-group, input, button.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/MrPXKG]
+
+## Day 16: January 18, 2018
+
+**Today's Progress:** Login Codepen Page(using pure CSS3)
+
+**Thought**: I feel tired when I start coding, but ok in the end. Do thing enought normal, but I seem not  ok with para and icon.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/MrPXKG]
