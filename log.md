@@ -133,3 +133,32 @@
 **Thought**: I feel tired when I start coding, but ok in the end. Do thing enought normal, but I seem not  ok with para and icon.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/MrPXKG]
+
+## Day 17: January 19, 2018
+
+**Today's Progress:** The Album play by The Beatle(using Javascript)
+
+**Thought**: Really want to do it fast, 25 minutes for all and after that I feel tired and go to sleep. Time for doing code pass by by another distract.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/JMwxjv]
+
+## Day 18: January 20, 2018 (Nothing done!!!)
+
+
+## Day 19: January 21, 2018 
+
+**Today's Progress:** The Brand page 's Neil Young.
+
+**Thought**: I try to make it so simple and easy at all, not satisfy with this result but ok.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/MrLBOP]
+
+## Day 20: January 22, 2018 (Nothing done!!!)
+
+## Day 21: January 23, 2018
+
+**Today's Progress:** Making login_divider and flip neil young img.
+
+**Thought**: Everything had so difficulty to figure out. And I feel so terrible with noise outside. Making things so messy. 
+
+**Link to work**: []
