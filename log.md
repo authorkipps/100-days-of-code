@@ -162,3 +162,11 @@
 **Thought**: Everything had so difficulty to figure out. And I feel so terrible with noise outside. Making things so messy. 
 
 **Link to work**: []
+
+## Day 22: January 24, 2018
+
+**Today's Progress:** Adding a audio in to page
+
+**Thought**: It is like a new experiment for me to set up it. I make it. Still want more for this click function. Go ahead and try things.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/JMwxjv]
