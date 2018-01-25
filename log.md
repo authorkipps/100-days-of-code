@@ -170,3 +170,11 @@
 **Thought**: It is like a new experiment for me to set up it. I make it. Still want more for this click function. Go ahead and try things.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/JMwxjv]
+
+# Day 23: January 25, 2018
+
+**Today's Progress:** Playing Animate Jquery In NY page
+
+**Thought**: It is forgotten when I tried to do it. I need a doccument to restore my funtion. Just try.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/MrLBOP]
