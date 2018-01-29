@@ -178,3 +178,15 @@
 **Thought**: It is forgotten when I tried to do it. I need a doccument to restore my funtion. Just try.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/MrLBOP]
+
+# Day 24: January 26, 2018 (Skip day)
+# Day 25: January 27, 2018 (Lazy to do)
+# Day 26: January 28, 2018 (Lazy to do)
+
+# Day 27: January 29, 2018
+
+**Today's Progress:** Making Nav of project NewDay
+
+**Thought**: I don't remember anything about making a navigation. First, It's hard to figure out what I do. Lately, It's Ok. But I need to learn a lot of knowledge.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz?editors=1100]
