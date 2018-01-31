@@ -190,3 +190,13 @@
 **Thought**: I don't remember anything about making a navigation. First, It's hard to figure out what I do. Lately, It's Ok. But I need to learn a lot of knowledge.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz?editors=1100]
+
+# Day 28: January 30, 2018 (Stay at home and Don't do anything)
+
+# Day 30: January 31, 2018
+
+**Today's Progress:** Continue making coppy ngaymoi_project
+
+**Thought**: It's so nice to watch every detail of web page, author is so smart to connect everything to his page.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz]
