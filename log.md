@@ -200,3 +200,13 @@
 **Thought**: It's so nice to watch every detail of web page, author is so smart to connect everything to his page.
 
 **Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz]
+
+# Day 31: February 1, 2018
+
+**Today's Progress:** Continue Making ngaymoi
+
+**Thought**: It's juggle to compare my knowledge about javascript to make a day and moth in page. I have fun with some randomcolor in Page. But It's Ok.
+
+**Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz]
+
+**Link to work**: []
