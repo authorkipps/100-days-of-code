@@ -102,7 +102,7 @@
 
 **Thought**: Empty. Not have enough strengh to start code.
 
-## Day 13: January 15, 2018
+### Day 13: January 15, 2018
 
 **Today's Progress:** Movies film project.
 
@@ -110,7 +110,7 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/OzwBro]
 
-## Day 14: January 16, 2018
+### Day 14: January 16, 2018
 
 **Today's Progress:** Movies film project(Continual)
 
@@ -118,7 +118,7 @@
 
 **Link to work**:[Same]
 
-## Day 15: January 17, 2018
+### Day 15: January 17, 2018
 
 **Today's Progress:** Login Codepen page
 
@@ -126,7 +126,7 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/MrPXKG]
 
-## Day 16: January 18, 2018
+### Day 16: January 18, 2018
 
 **Today's Progress:** Login Codepen Page(using pure CSS3)
 
@@ -134,7 +134,7 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/MrPXKG]
 
-## Day 17: January 19, 2018
+### Day 17: January 19, 2018
 
 **Today's Progress:** The Album play by The Beatle(using Javascript)
 
@@ -142,10 +142,10 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/JMwxjv]
 
-## Day 18: January 20, 2018 (Nothing done!!!)
+### Day 18: January 20, 2018 (Nothing done!!!)
 
 
-## Day 19: January 21, 2018 
+### Day 19: January 21, 2018 
 
 **Today's Progress:** The Brand page 's Neil Young.
 
@@ -153,9 +153,9 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/MrLBOP]
 
-## Day 20: January 22, 2018 (Nothing done!!!)
+### Day 20: January 22, 2018 (Nothing done!!!)
 
-## Day 21: January 23, 2018
+### Day 21: January 23, 2018
 
 **Today's Progress:** Making login_divider and flip neil young img.
 
@@ -163,7 +163,7 @@
 
 **Link to work**: []
 
-## Day 22: January 24, 2018
+### Day 22: January 24, 2018
 
 **Today's Progress:** Adding a audio in to page
 
@@ -171,7 +171,7 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/JMwxjv]
 
-# Day 23: January 25, 2018
+### Day 23: January 25, 2018
 
 **Today's Progress:** Playing Animate Jquery In NY page
 
@@ -179,11 +179,11 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/MrLBOP]
 
-# Day 24: January 26, 2018 (Skip day)
-# Day 25: January 27, 2018 (Lazy to do)
-# Day 26: January 28, 2018 (Lazy to do)
+### Day 24: January 26, 2018 (Skip day)
+### Day 25: January 27, 2018 (Lazy to do)
+### Day 26: January 28, 2018 (Lazy to do)
 
-# Day 27: January 29, 2018
+### Day 27: January 29, 2018
 
 **Today's Progress:** Making Nav of project NewDay
 
@@ -191,9 +191,9 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz?editors=1100]
 
-# Day 28: January 30, 2018 (Stay at home and Don't do anything)
+### Day 28: January 30, 2018 (Stay at home and Don't do anything)
 
-# Day 30: January 31, 2018
+### Day 30: January 31, 2018
 
 **Today's Progress:** Continue making coppy ngaymoi_project
 
@@ -201,7 +201,7 @@
 
 **Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz]
 
-# Day 31: February 1, 2018
+### Day 31: February 1, 2018
 
 **Today's Progress:** Continue Making ngaymoi
 
@@ -210,3 +210,8 @@
 **Link to work**: [https://codepen.io/authorkipps/pen/jZOVzz]
 
 **Link to work**: []
+
+### Day 40: February 02, 2018 
+==> () 26 days and Nothing happens.
+### Day 66: February 27, 2018
+
