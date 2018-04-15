@@ -215,3 +215,6 @@
 ==> () 26 days and Nothing happens.
 ### Day 66: February 27, 2018
 
+### Day 100: April 2, 2018
+Finish Day ===> () 34 days doing nothing. Fail
+### Day 113: April 15, 2018
